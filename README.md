@@ -1,8 +1,18 @@
-# ARTH-team-11.17-python-menu
-#Python automated menu for various linux command
+# ARTH-team-11.17-python-menu Task-8 (Group task)
+>Python automated menu for various linux command
 
-Team Members:\n
-Harshil Shah\n
-Prashant Sharma\n
-Umakant kumar\n
-Ritvik 
+**Task Discreption**
+>Automating following things:
+1. Web server 
+2. Docker service
+3. Yum setup
+4. Hadoop setup
+5. AWS commands
+
+**Team Members:** 
+
+-Harshil Shah
+-Ritvik Ranjan
+-Prashant Sharma
+-Umakant kumar
+ 
